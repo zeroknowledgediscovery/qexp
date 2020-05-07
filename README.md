@@ -1,7 +1,7 @@
 # Validating Qnet Predictions: Towards Realistic Prediction of Future Strain Variations from Sequence Databases
 ---
 
-The Laboratory for Zero Knowledge Discovery, University of Chicago 
+Laboratory for Zero Knowledge Discovery, University of Chicago 
 
 ---
 
